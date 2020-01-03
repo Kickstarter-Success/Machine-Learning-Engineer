@@ -9,3 +9,6 @@ Kickstarter success is an application to help you predict whether your kickstart
 - Fundraising Goal
 - Country
 - Duration
+
+
+For the API github repo, please visit https://github.com/Kickstarter-Success/Data-Engineer
